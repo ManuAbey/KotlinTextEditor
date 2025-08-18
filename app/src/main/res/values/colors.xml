@@ -2,4 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="btncolor">#31507d</color>
+
+    <color name="purple_700">#6200EE</color>
+    <color name="teal_700">#018786</color>
+    <color name="orange">#FF9800</color>
+
+    <color name="keywordColor">#FF4081</color>
+    <color name="stringColor">#4CAF50</color>
+    <color name="numberColor">#03A9F4</color>
 </resources>
